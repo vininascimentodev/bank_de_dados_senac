@@ -110,7 +110,7 @@ VALUES
 ✔️ Inserindo clientes
 - INSERT INTO Clientes (Nome, Email, Telefone)
 VALUES
-('Ana Souza', 'anadoibura@gmail.com', '4002-8922'),
+- ('Ana Souza', 'anadoibura@gmail.com', '4002-8922'),
 
 - ('João Lima', 'joaodavarzea@hotmail.com', '12345-6789'),
 
